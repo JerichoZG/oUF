@@ -16,7 +16,7 @@ read_globals = {
 	'strsplit',
 	'wipe',
 
-	-- category?
+	-- FrameXML
 	'CastingBarFrame',
 	'CastingBarFrame_OnLoad',
 	'CastingBarFrame_SetUnit',
